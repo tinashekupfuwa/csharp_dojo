@@ -1,0 +1,12 @@
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/bin/Debug/netcoreapp3.1/csharp_practice_02.deps.json
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/bin/Debug/netcoreapp3.1/csharp_practice_02.runtimeconfig.json
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/bin/Debug/netcoreapp3.1/csharp_practice_02.runtimeconfig.dev.json
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/bin/Debug/netcoreapp3.1/csharp_practice_02.dll
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/bin/Debug/netcoreapp3.1/csharp_practice_02.pdb
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.csprojAssemblyReference.cache
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.AssemblyInfoInputs.cache
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.AssemblyInfo.cs
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.csproj.CoreCompileInputs.cache
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.dll
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.pdb
+/Users/tinashekupfuwa/Documents/DevSpace/Langs/C#/practice/csharp_practice_02/obj/Debug/netcoreapp3.1/csharp_practice_02.genruntimeconfig.cache
