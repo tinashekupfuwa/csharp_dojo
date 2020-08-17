@@ -28,8 +28,8 @@ namespace csharp_practice_02
 
       // //Exception handling
 
-      Book book1 = new Book("1234", "2345", 200);
-      Console.WriteLine(book1.title);
+      Book book1 = new Book("1234", "2345", 200, "R");
+      Console.WriteLine(book1.Rating);
 
     }
   }
